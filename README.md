@@ -12,6 +12,8 @@ I'm a Biostatistician doing Data Science.
 
 * Python
 * SQL
+* Excel
+* Tableau
 * Data Analysis
 
 ## 🚀 Current Focus
