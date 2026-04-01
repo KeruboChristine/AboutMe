@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Biostatistics student currently doing Data Science.
+I'm a Biostatistician doing Data Science.
 
 ## 💡 About Me
 
@@ -21,9 +21,9 @@ I'm a Biostatistics student currently doing Data Science.
 
 ## 📫 Connect with Me
 
-* GitHub: (your username here)
+* GitHub: KeruboChristine
 
----
 
-*"Learning step by step and building along the way."*
+
+
 
